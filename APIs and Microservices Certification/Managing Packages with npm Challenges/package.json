@@ -1,0 +1,27 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"author": "Renato Lima",
+	"description": "A project that does absolute nothing! ",
+	"version": "0.1.0",
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"engines": {
+		"node": "8.11.2"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	},
+	"keywords": [
+		"freecodecamp",
+		"studies",
+		"coding",
+		"learning"
+	]
+}
